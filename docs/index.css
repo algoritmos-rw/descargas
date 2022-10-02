@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+.content {
+    padding: 40px 15px;
+}
+@media (max-width: 768px) {
+    #previewCode {
+        font-size: 0.8em;
+    }
+}
+pre code {
+    white-space: pre;
+    overflow-x: auto;
+    display: inline-block;
+    min-width: 100%;
+}

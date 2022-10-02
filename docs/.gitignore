@@ -1,0 +1,4 @@
+# Querríamos ignorar los zips, pero no lo hacemos porque
+# el "git add" de peaceiris/actions-gh-pages los ignoraría
+# y no llegarían a deployearse.
+# zips/
