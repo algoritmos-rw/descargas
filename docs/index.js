@@ -5,7 +5,7 @@ var DIRS = {
   'pila':'Pila',
   'cola':'Cola Enlazada',
   'lista':'Lista Enlazada',
-  'tp1':'Trabajo Práctico 1: votaciones',
+  'tp1':'Trabajo Práctico 1',
   'hash':'Tabla de Hash',
   'abb':'Árbol Binario de Búsqueda',
   'heap':'Heap',
