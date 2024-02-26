@@ -1,7 +1,6 @@
 var DIRS = {
   // id (nombre de directorio) : titulo de entrega
   'tp0':'Trabajo Práctico 0',
-  'admmemoria': 'Vector y Persona',
   'pila':'Pila',
   'cola':'Cola Enlazada',
   'lista':'Lista Enlazada',
@@ -15,8 +14,7 @@ var DIRS = {
 
 var FILES ={
   // id (nombre de directorio) : contenido de directorio
-  'tp0':['tp0.go','tp0_test.go', 'go.mod'],
-  'admmemoria':['vector.go','persona.go','administrador_memoria.go','persona_test.go','vector_test.go', 'go.mod'],
+  'tp0':['tp0.go','tp0_test.go'],
   'pila':['pila.go','pila_dinamica.go','pila_test.go'],
   'cola':['cola.go'],
   'lista':[],
@@ -30,8 +28,7 @@ var FILES ={
 
 var ENTREGABLES ={
   // id (nombre de directorio) : contenido a entregar
-  'tp0':['tp0.go'],
-  'admmemoria':['vector.go', 'persona.go'],
+  'tp0':['tp0.go', 'main.go'],
   'pila':['pila_dinamica.go','pila_test.go'],
   'cola':['cola_enlazada.go','cola_test.go'],
   'lista':['lista_enlazada.go','lista.go','lista_test.go'],
