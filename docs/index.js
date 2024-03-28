@@ -18,7 +18,7 @@ var FILES ={
   'pila':['pila.go','pila_dinamica.go','pila_test.go'],
   'cola':['cola.go'],
   'lista':[],
-  'tp1':['diseno_alumnos.zip', 'pruebas.zip'],
+  'tp1':['pruebas.zip'],
   'hash':['diccionario.go','diccionario_test.go'],
   'abb':['diccionario_ordenado.go'],
   'heap':['cola_prioridad.go'],
