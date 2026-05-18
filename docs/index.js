@@ -22,7 +22,7 @@ var FILES ={
   'hash':['diccionario.go','diccionario_test.go'],
   'abb':['diccionario_ordenado.go'],
   'heap':['cola_prioridad.go'],
-  'tp2':['pruebas.zip'],
+  'tp2':['pruebas.zip', 'mensajes.go'],
   'tp3':['qatar.pj', 'mapa_ejemplo.kml', 'recomendacion_ejemplo.csv']
 }
 
