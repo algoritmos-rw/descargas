@@ -23,7 +23,7 @@ var FILES ={
   'abb':['diccionario_ordenado.go'],
   'heap':['cola_prioridad.go'],
   'tp2':['pruebas.zip', 'mensajes.go'],
-  'tp3':['qatar.pj', 'mapa_ejemplo.kml', 'recomendacion_ejemplo.csv']
+  'tp3':['eeuu_y_otros.pj', 'mapa_ejemplo.kml', 'recomendacion_ejemplo.csv']
 }
 
 var ENTREGABLES ={
